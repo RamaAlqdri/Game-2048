@@ -1,5 +1,5 @@
 
-<h2>Game-2048</h2>
+<h1>Game-2048</h1>
 
 ![Nama alternatif untuk gambar](Result.png)
 <p>
